@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82cc88cc-f86e-4047-b926-aeacd108e0a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Formulaire.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Lists.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +60,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589181224702</updated>
-      <workItem from="1589181226843" duration="9846000" />
+      <workItem from="1589181226843" duration="10981000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit general">
+      <created>1589191261905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589191261905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit general" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit general" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="241" y="212" key="CommitChangelistDialog2" timestamp="1589191260762">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="241" y="212" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1589191260762" />
     <state x="519" y="599" width="264" height="209" key="Github.ShareDialog" timestamp="1589191188528">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -94,5 +104,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1256" height="380" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589188510540" />
+    <state x="232" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589191266463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="232" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1589191266463" />
   </component>
 </project>

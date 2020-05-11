@@ -6,11 +6,20 @@ import './App.css';
 
 let searchTimeout;
 
+
 const App =() => {
   const [loading, setLoading] = useState(true);
   const [items, setItems] = useState([]);
 
-  const addUser = user => {
+  state = {
+      nameList:[
+          {name: 'Test',username: 'Testusername',email: 'test@test.com', website: 'www.test.com',phone: '0364748749',street: 'rue Test',city: 'Testland', zipcode: '1322'}
+      ]
+  };
+
+  //je n'arrive pas a faire appel en bas dans le form pour opouvoir faire passer les donner de Form à addUser pour pouvoir les mettre dans
+
+   addUser = user => {
     let users = [...this.state.nameList, user];
     this.setState({
       nameList: users
